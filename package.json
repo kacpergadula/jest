@@ -1,0 +1,26 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacpergadula/jest.git"
+  },
+  "author": "kacper",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.0",
+    "ts-jest": "^26.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kacpergadula/jest/issues"
+  },
+  "homepage": "https://github.com/kacpergadula/jest#readme"
+}
