@@ -4,5 +4,5 @@ module.exports = {
     },
     roots : ['<rootDir>'],
     testRegex : '(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$',
-    moduleFileExtensions: ['ts','tsx','jsx','json','node']
+    moduleFileExtensions: ['ts','tsx','jsx','json','node','js']
 }
